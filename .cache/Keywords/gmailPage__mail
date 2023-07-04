@@ -1,0 +1,19 @@
+{
+  "keywordFileContentHash": "F31ED67C422755218C6CD0FE04957572",
+  "keywordClasses": [
+    {
+      "name": "gmailPage.Mail",
+      "keywordMethods": [
+        {
+          "name": "returnDriverInstance",
+          "parameters": []
+        },
+        {
+          "name": "openGmail",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
